@@ -7,5 +7,7 @@ namespace _20171578036_20172578091_2
 {
     public class notas
     {
+	private static string[] palabras = new palabras();
+
     }
 }
