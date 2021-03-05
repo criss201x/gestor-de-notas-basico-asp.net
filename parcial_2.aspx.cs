@@ -67,7 +67,8 @@ namespace _20171578036_20172578091_2
             }
             else
             {
-                lblResultado.Text = "Error esos datos no se pueden agregar digite variables numericas!";
+                //lblResultado.Text = "Error esos datos no se pueden agregar digite variables numericas!";
+		lblResultado.Text = "valor invalido";
             }
 
 

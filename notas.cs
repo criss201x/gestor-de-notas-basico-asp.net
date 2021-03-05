@@ -9,7 +9,7 @@ namespace _20171578036_20172578091_2
     {
         static public String tabla;
         static public int contador = 1;
-        //esto funciona?
+
 
         static public double nota1, nota2, nota3, notaFinal2 = 0;
         static public int contador2, contador3, contador4 = 0;
